@@ -1,6 +1,6 @@
-# CS NEA
+# MusBook
 
-An end-to-end scheduling and communications platform that helps teachers and students coordinate lessons, share resources, and stay informed. CS NEA combines Django, Channels, Celery, and Tailwind CSS to deliver real-time messaging, scheduling automation, and a role-aware dashboard experience.
+An end-to-end scheduling and communications platform that helps teachers and students coordinate lessons, share resources, and stay informed. MusBook combines Django, Channels, Celery, and Tailwind CSS to deliver real-time messaging, scheduling automation, and a role-aware dashboard experience.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -27,7 +27,7 @@ An end-to-end scheduling and communications platform that helps teachers and stu
 - [Troubleshooting & tips](#troubleshooting--tips)
 
 ## Overview
-CS NEA provides a connected space for tuition centres or small teaching teams. Students can discover and manage lessons with teachers they are connected to, while teachers coordinate schedules, issue assignments, and track attendance from a unified dashboard. The platform embraces automation with background reminders, timezone-aware scheduling, and real-time notifications so both parties always have the latest information.
+MusBook provides a connected space for tuition centres or small teaching teams. Students can discover and manage lessons with teachers they are connected to, while teachers coordinate schedules, issue assignments, and track attendance from a unified dashboard. The platform embraces automation with background reminders, timezone-aware scheduling, and real-time notifications so both parties always have the latest information.
 
 ## Feature Highlights
 
